@@ -1,5 +1,5 @@
 # E-commerce ORM
-This project uses the object relational model that performs CRUD operations on existing database from mysql
+This project is a back end application that uses the Object relational mapping model to performs CRUD operations on existing database.
 
 # Steps
 1. Create models for the e-commerce architye such as prducts, tags, and categories
