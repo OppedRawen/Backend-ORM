@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const apiRoutes = require('./api');
-
+//firt arg is what we add to the end point
 router.use('/api', apiRoutes);
 
 router.use((req, res) => {
